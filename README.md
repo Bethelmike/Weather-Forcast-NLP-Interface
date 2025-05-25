@@ -49,10 +49,8 @@ These cities were selected for their diverse climates and geographic spread acro
 forecasting-nlp-weather/
 ├── notebooks/
 │   └── city_temperature_forecasting.ipynb   # Full pipeline: EDA, modeling, NLP
-├── data/
-│   └── CityTemps.csv                        # Local dataset file 
-├── requirements.txt                         # Python dependencies
 ├── README.md                                # This file
+├── requirements.txt                         # Python dependencies
 ```
 
 
