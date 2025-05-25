@@ -69,7 +69,7 @@ ask_weather("Weather forecast for Dakar")
 
 These queries will return next-day or multi-day temperature predictions for supported cities.
 
----
+
 
 ## ⚙️ Setup Instructions
 
